@@ -1,0 +1,5 @@
+model_name: modelo_01.
+selectkbest__k: 10
+scaler: None
+classifier__max_depth: 7
+classifier: GradientBoostingClassifier()
